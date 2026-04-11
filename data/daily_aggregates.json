@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-03T17:02:00.766524+00:00",
+  "generated_at": "2026-04-11T16:02:02.300091+00:00",
   "years": {
     "2023": {
       "Workout": {
@@ -4166,6 +4166,25 @@
           "distance": 8094.68994140625,
           "elevation_gain": 46.77999997138977,
           "moving_time": 2459.188018798828
+        },
+        "2026-04-06": {
+          "activity_ids": [
+            "22425347778"
+          ],
+          "count": 1,
+          "distance": 18105.890625,
+          "elevation_gain": 186.20000000298023,
+          "moving_time": 5747.033996582031
+        },
+        "2026-04-08": {
+          "activity_ids": [
+            "22447977690",
+            "22454733914"
+          ],
+          "count": 2,
+          "distance": 20311.400390625,
+          "elevation_gain": 62.139999985694885,
+          "moving_time": 6596.116989135742
         }
       },
       "TrailRun": {
@@ -4312,6 +4331,24 @@
           "distance": 15631.7001953125,
           "elevation_gain": 157.4699999988079,
           "moving_time": 5037.0
+        },
+        "2026-04-05": {
+          "activity_ids": [
+            "22414756197"
+          ],
+          "count": 1,
+          "distance": 21731.890625,
+          "elevation_gain": 283.25999999046326,
+          "moving_time": 7455.0
+        },
+        "2026-04-10": {
+          "activity_ids": [
+            "22477722264"
+          ],
+          "count": 1,
+          "distance": 12214.650390625,
+          "elevation_gain": 62.5799999833107,
+          "moving_time": 3855.0
         }
       },
       "VirtualRun": {
@@ -4595,6 +4632,24 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1812.488037109375
+        },
+        "2026-04-07": {
+          "activity_ids": [
+            "22438438205"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1376.3070068359375
+        },
+        "2026-04-09": {
+          "activity_ids": [
+            "22465056497"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2263.176025390625
         }
       },
       "stair_climbing": {
@@ -4696,6 +4751,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 4227.1728515625
+        },
+        "2026-04-07": {
+          "activity_ids": [
+            "22439386352"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4812.2578125
         }
       }
     }
