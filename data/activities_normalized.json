@@ -6888,5 +6888,18 @@
     "start_date_local": "2026-04-10T15:31:07",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-04-12",
+    "distance": 31241.890625,
+    "elevation_gain": 427.20000000298023,
+    "id": "22500984371",
+    "moving_time": 10779.0,
+    "name": "Velsen Trail Running",
+    "raw_activity_type": "trail_running",
+    "raw_type": "trail_running",
+    "start_date_local": "2026-04-12T12:56:28",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
