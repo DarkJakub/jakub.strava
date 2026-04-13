@@ -6901,5 +6901,31 @@
     "start_date_local": "2026-04-12T12:56:28",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-04-13",
+    "distance": 10209.33984375,
+    "elevation_gain": 27.30000001192093,
+    "id": "22506799147",
+    "moving_time": 3788.9710083007812,
+    "name": "Velsen Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-04-13T05:52:11",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-13",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "22511424271",
+    "moving_time": 2012.488037109375,
+    "name": "Strength",
+    "raw_activity_type": "strength_training",
+    "raw_type": "strength_training",
+    "start_date_local": "2026-04-13T15:55:42",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]

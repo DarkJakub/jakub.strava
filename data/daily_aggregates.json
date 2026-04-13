@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-12T17:04:18.688158+00:00",
+  "generated_at": "2026-04-13T18:54:22.515703+00:00",
   "years": {
     "2023": {
       "Workout": {
@@ -4185,6 +4185,15 @@
           "distance": 20311.400390625,
           "elevation_gain": 62.139999985694885,
           "moving_time": 6596.116989135742
+        },
+        "2026-04-13": {
+          "activity_ids": [
+            "22506799147"
+          ],
+          "count": 1,
+          "distance": 10209.33984375,
+          "elevation_gain": 27.30000001192093,
+          "moving_time": 3788.9710083007812
         }
       },
       "TrailRun": {
@@ -4659,6 +4668,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2263.176025390625
+        },
+        "2026-04-13": {
+          "activity_ids": [
+            "22511424271"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2012.488037109375
         }
       },
       "stair_climbing": {
