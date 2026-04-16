@@ -4814,6 +4814,15 @@
       "type": "TrailRun",
       "url": "https://connect.garmin.com/modern/activity/22534206204",
       "year": 2026
+    },
+    {
+      "date": "2026-04-16",
+      "hour": 15,
+      "name": "Velsen Running",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/22547379871",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -9010,6 +9019,15 @@
           "distance": 10209.33984375,
           "elevation_gain": 27.30000001192093,
           "moving_time": 3788.9710083007812
+        },
+        "2026-04-16": {
+          "activity_ids": [
+            "22547379871"
+          ],
+          "count": 1,
+          "distance": 8009.72021484375,
+          "elevation_gain": 39.189999997615814,
+          "moving_time": 2854.863983154297
         }
       },
       "TrailRun": {
@@ -9626,7 +9644,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/a7ffa768-f861-4271-97ae-69526249b2d8",
-  "generated_at": "2026-04-15T18:49:19.300822+00:00",
+  "generated_at": "2026-04-16T18:49:01.990192+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/a7ffa768-f861-4271-97ae-69526249b2d8",
   "repo": "DarkJakub/jakub.strava",
