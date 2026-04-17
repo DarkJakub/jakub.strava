@@ -6966,5 +6966,18 @@
     "start_date_local": "2026-04-16T15:12:39",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-17",
+    "distance": 11104.0,
+    "elevation_gain": 49.5799999833107,
+    "id": "22560537107",
+    "moving_time": 3759.7469787597656,
+    "name": "Velsen Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-04-17T16:52:03",
+    "type": "Run",
+    "year": 2026
   }
 ]
