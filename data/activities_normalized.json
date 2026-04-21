@@ -7005,5 +7005,18 @@
     "start_date_local": "2026-04-20T05:58:54",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-04-21",
+    "distance": 5099.509765625,
+    "elevation_gain": 19.850000023841858,
+    "id": "22600905182",
+    "moving_time": 1409.1799926757812,
+    "name": "Velsen Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-04-21T05:45:48",
+    "type": "Run",
+    "year": 2026
   }
 ]
