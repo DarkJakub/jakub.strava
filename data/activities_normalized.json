@@ -7044,5 +7044,18 @@
     "start_date_local": "2026-04-24T06:30:23",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-26",
+    "distance": 100400.4609375,
+    "elevation_gain": 353.7900000214577,
+    "id": "22666153458",
+    "moving_time": 13488.865966796875,
+    "name": "Velsen Cycling",
+    "raw_activity_type": "cycling",
+    "raw_type": "cycling",
+    "start_date_local": "2026-04-26T11:02:04",
+    "type": "Ride",
+    "year": 2026
   }
 ]
